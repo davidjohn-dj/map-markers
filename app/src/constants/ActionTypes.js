@@ -1,0 +1,1 @@
+export const SET_MARKER_DATA = 'SET_MARKER_DATA';

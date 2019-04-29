@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Map test Map should match snapshot 1`] = `
+<div
+  className="ant-spin ant-spin-lg ant-spin-spinning"
+>
+  <span
+    className="ant-spin-dot ant-spin-dot-spin"
+  >
+    <i />
+    <i />
+    <i />
+    <i />
+  </span>
+</div>
+`;
